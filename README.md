@@ -90,8 +90,17 @@ It enables decision-makers to **identify risk factors, evaluate safety measures,
 
 ---
 
-## 📷 Dashboard Preview
-![Road Accident Dashboard](Road_Accident_Dashboard.png)
+## 📷 Dashboard Screenshots
+
+### 📊 Excel Dashboard
+![Excel Dashboard](Dashboard%20using%20Excel.png)
+
+### 📈 Power BI Dashboard
+![Power BI Dashboard](Dashboard%20using%20Power%20BI.png)
+
+### 📉 Tableau Dashboard
+![Tableau Dashboard](Dashboard%20using%20Tableau.png)
+
 
 ---
 
